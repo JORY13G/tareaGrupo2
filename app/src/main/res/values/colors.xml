@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#212121</color> <!-- Un tono más suave de negro -->
+    <color name="white">#FFFFFF</color> <!-- Blanco para texto principal -->
+    <color name="primary">#6200EE</color> <!-- Color morado vibrante para botones y highlights -->
+    <color name="secondary">#03DAC5</color> <!-- Color teal vibrante para elementos secundarios -->
+    <color name="gray">#B0B0B0</color> <!-- Gris suave para backgrounds o texto secundario -->
+    <color name="dark_gray">#121212</color> <!-- Fondo oscuro para el modo oscuro -->
+    <color name="light_gray">#F5F5F5</color> <!-- Gris claro para el modo claro --> <!-- Rosa para los íconos -->
+</resources>
